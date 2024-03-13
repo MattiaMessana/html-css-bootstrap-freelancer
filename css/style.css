@@ -1,0 +1,74 @@
+/* UTILITIES */
+img {
+    max-width: 100%;
+}
+
+/* HEADER */
+
+.ms_header {
+
+    /* debug */
+    background-color: blueviolet;
+    height: 50px;
+}
+
+
+/* MAIN */
+
+/* HERO-SECTION */
+.ms_hero_container {
+
+    /* debug */
+    background-color: yellowgreen;
+    height: 300px;
+}
+
+/* PORTFOLIO-SECTION */
+
+.ms_portfolio_container {
+
+    /* debug */
+    background-color: brown;
+    /* height: 1000px; */
+}
+
+
+/* ABOT-SECTION */
+
+.ms_about_container {
+
+    /* debug */
+    background-color: violet;
+    /* height: 500px; */
+}
+
+
+/* CONTACT-US-SECTION */
+
+.ms_contact_container {
+
+    /* debug */
+    background-color: skyblue;
+    height: 500px;
+}
+
+
+/* /MAIN */
+
+/* FOOTER */
+
+.ms_footer_container{
+     
+    /* debug */
+    background-color: pink;
+    
+}
+
+
+/* COPYRIGHT-SECTION */
+
+.ms_copyright_container {
+
+    /* debug */
+    background-color: blueviolet;
+}
