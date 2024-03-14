@@ -6,10 +6,8 @@ img {
 /* HEADER */
 
 .ms_header {
+    background-color: #303D4E;
 
-    /* debug */
-    background-color: blueviolet;
-    height: 50px;
 }
 
 
@@ -17,58 +15,60 @@ img {
 
 /* HERO-SECTION */
 .ms_hero_container {
+    background-color: #58B99D;
+}
 
-    /* debug */
-    background-color: yellowgreen;
-    height: 300px;
+.ms_hero_container img {
+    width: 200px;
 }
 
 /* PORTFOLIO-SECTION */
 
-.ms_portfolio_container {
-
-    /* debug */
-    background-color: brown;
-    /* height: 1000px; */
-}
 
 
 /* ABOT-SECTION */
 
 .ms_about_container {
-
-    /* debug */
-    background-color: violet;
-    /* height: 500px; */
+    background-color: #58B99D;
 }
 
 
 /* CONTACT-US-SECTION */
 
-.ms_contact_container {
-
-    /* debug */
-    background-color: skyblue;
-    height: 500px;
+.ms_input_container {
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 0;
 }
 
-
-/* /MAIN */
+.btn.ms_btn-color {
+    background-color: #58B99D;
+    color: white;
+}
 
 /* FOOTER */
 
-.ms_footer_container{
-     
-    /* debug */
-    background-color: pink;
-    
+.ms_footer_container {
+    background-color: #40536B;
 }
 
+.ms_i {
+    border-radius: 50%;
+    border: 1px solid white;
+    padding: 10px;
+    margin: 5px;
+    font-size: 1.4rem;
+    color: white;
+}
+
+.ms_footer_container a {
+    color: #58B99D;
+    text-decoration: none;
+}
 
 /* COPYRIGHT-SECTION */
 
 .ms_copyright_container {
-
-    /* debug */
-    background-color: blueviolet;
+    background-color: #303D4E;
 }
